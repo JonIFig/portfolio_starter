@@ -1,35 +1,33 @@
-/* CSS files add styling rules to your content */
-
 body {
-  background-color: black;
-  color: white;
-  font-family: "Gloria Hallelujah", cursive;
+    background-color: black;
+    color: white;
+    font-family: "Gloria Hallelujah", cursive;
 }
 
-nav{
-  display: flex;
-  justify-content: space-around;
-  padding-bottom: 20px;
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
 }
 
-img{
-  width: 300px;
+img {
+    width: 300px;
 }
 
-a{
-  color: red;
-  text-decoration: none;
+a {
+    color: red;
+    text-decoration: none;
 }
 
-h1,nav {
-  text-align: center;
+h1, nav {
+    text-align: center;
 }
 
-a:hover{
-  text-decoration: underline;
+a:hover {
+    text-decoration: underline;
 }
 
-.main{
-  display: flex;
-  margin-bottom: 20px;
+.main {
+    display: flex;
+    margin-bottom: 20px;
 }
